@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TopMovies</string>
+    <string name="string_hello">Hello</string>
+    <string name="search_string">Search for latest movies</string>
+    <string name="recommended">RECOMMENDED FOR YOU</string>
+    <string name="see_all">See All</string>
+    <string name="top_rated">TOP RATED</string>
+    <string name="popular">POPULAR</string>
+    <string name="upcoming">UPCOMING</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="preview">Preview</string>
+    <string name="genres">Genres</string>
+    <string name="release">Release</string>
+    <string name="trailer_movies">TRAILER MOVIES</string>
+</resources>
